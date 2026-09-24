@@ -7,3 +7,8 @@
 body {
     font-family: Arial, sans-serif;
 }
+.footer {
+    padding: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
